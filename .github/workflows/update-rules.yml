@@ -12,7 +12,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Fetch upstream data
         run: git clone --depth 1 https://github.com/v2fly/domain-list-community.git upstream
       - name: Generate rule files
@@ -28,4 +28,3 @@ jobs:
           git add data rule
           git commit -m "Update Tencent rules"
           git push
-
