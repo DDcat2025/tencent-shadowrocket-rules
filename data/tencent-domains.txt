@@ -2,11 +2,11 @@
 # AUTHOR: DDcat2025
 # REPO: https://github.com/DDcat2025/tencent-shadowrocket-rules
 # SOURCE: https://github.com/v2fly/domain-list-community
-# SOURCE-COMMIT: 197922d161f3a4fc0a36fa43d9668b7918b9338f
+# SOURCE-COMMIT: bb622a2b75b3dfbec83719c1eb6e748720ea698e
 # INCLUDED: cnb, coding, discuz, dnspod, kugou, kuwo, qcloud, sogou, tencent, tencent-dev, tencent-games, tencent-tme, webnovel, ximalaya, yuewen
-# DOMAIN-SUFFIX: 677
+# DOMAIN-SUFFIX: 691
 # DOMAIN: 1
-# TOTAL: 678
+# TOTAL: 692
 17roco.com
 97ting.com
 acctdns.com
@@ -41,6 +41,7 @@ adsview2.qq.com
 adv.app.qq.com
 adver.qq.com
 aegis.qq.com
+aireads.cn
 aitransfy.com
 alloyteam.com
 anticheatexpert.com
@@ -105,6 +106,14 @@ cdntips.net
 cdnv1.cn
 cdnv2.cn
 cdnv3.cn
+chatdrama.cn
+chatdrama.net
+chatqidian.cn
+chatqidian.net
+chattext.cn
+chatwrite.net
+chatxiaoxiang.com
+chatyuewen.cn
 cloud-industry-delivery.site
 cloudbase.cn
 cloudbase.net
@@ -137,6 +146,7 @@ dcloudvod.com
 dcloudvod.net
 discuz.net
 discuz.org
+dishu3.com
 dns.pub
 dnsapi.cn
 dnse0.cn
@@ -262,6 +272,7 @@ in.th
 inte.sogou.com
 inte.sogoucdn.com
 intltencentcos.com
+iot-tencent.com
 isd.com
 isdspeed.qq.com
 ispqcloud.com
@@ -643,6 +654,7 @@ wegameplus.com
 weishi.com
 weixin.com
 weixinbridge.com
+weixinsxy.com
 weiyun.com
 werepository.com.cn
 wetv.qq.com
@@ -657,6 +669,7 @@ wxaurl.cn
 wxcloudrun.com
 wxgateway.com
 wxlivecdn.com
+wxmpurl.cn
 xiangrikuijianzhan.com
 xiangrikuisite.com
 ximalaya.com
@@ -668,6 +681,7 @@ xqymuy.com
 xs.cn
 xs8.cn
 xxsy.net
+xxsypro.com
 y.qq.com
 yeyousg.com
 yidianliulan.cn
