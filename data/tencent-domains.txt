@@ -2,11 +2,11 @@
 # AUTHOR: DDcat2025
 # REPO: https://github.com/DDcat2025/tencent-shadowrocket-rules
 # SOURCE: https://github.com/v2fly/domain-list-community
-# SOURCE-COMMIT: 383272bf0a263de550d65fed9b8520aab55dfcb4
+# SOURCE-COMMIT: 6f8a5b43db087ae27decef85d80229850bbd40b1
 # INCLUDED: cnb, coding, discuz, dnspod, kugou, kuwo, qcloud, sogou, tencent, tencent-dev, tencent-games, tencent-tme, webnovel, ximalaya, yuewen
-# DOMAIN-SUFFIX: 692
+# DOMAIN-SUFFIX: 694
 # DOMAIN: 1
-# TOTAL: 693
+# TOTAL: 695
 17roco.com
 97ting.com
 acctdns.com
@@ -316,6 +316,7 @@ mahjongcup.net
 mdt.qq.com
 metalrevolution.com
 midasbuy.com
+mmbizurl.cn
 monitor.music.qq.com
 monitor.uu.qq.com
 mpush.qq.com
@@ -637,6 +638,7 @@ ultimatemusic.cn
 um.run
 uncnn.cn
 uranus.sogou.com
+url.cn
 vcloudstc.com
 vcloudstc.net
 vcloudvod.com
