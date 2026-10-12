@@ -51,3 +51,7 @@ rules:
 - 静态列表无法永久保证覆盖腾讯新增或迁移的全部域名，自动更新以社区上游数据为准。
 - IP 直连、应用内硬编码地址及 DNS 劫持不属于域名规则覆盖范围。
 
+
+## 2026-10-12 格式校正
+
+DOMAIN-SET 保留精确主机与后缀的差别：full: 主机不加前导点，后缀域名使用前导点。现有 RULE-SET、DOMAIN-SET 和 Mihomo 地址保持不变。整体接入顺序见 [综合规则仓库](https://github.com/DDcat2025/shadowrocket-routing-rules)。

@@ -71,7 +71,8 @@ def main() -> None:
     )
     write(
         Path("rule/Shadowrocket/Tencent/Tencent_Domain.list"),
-        header + [f".{domain}" for domain in sorted(suffixes | exact)],
+        header + [f".{domain}" for domain in sorted(suffixes)]
+        + sorted(exact - suffixes),
     )
     write(
         Path("rule/Mihomo/Tencent/Tencent.yaml"),

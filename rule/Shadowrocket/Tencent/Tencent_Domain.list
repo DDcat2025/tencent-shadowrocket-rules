@@ -2,7 +2,7 @@
 # AUTHOR: DDcat2025
 # REPO: https://github.com/DDcat2025/tencent-shadowrocket-rules
 # SOURCE: https://github.com/v2fly/domain-list-community
-# SOURCE-COMMIT: 63777333b7dd1ac57f790e466c0f6a647b9c7281
+# SOURCE-COMMIT: c6adacf29cc4fb05e04651fcf03e00989ef9f797
 # INCLUDED: cnb, coding, discuz, dnspod, kugou, kuwo, qcloud, sogou, tencent, tencent-dev, tencent-games, tencent-tme, webnovel, ximalaya, yuewen
 # DOMAIN-SUFFIX: 699
 # DOMAIN: 1
@@ -665,7 +665,6 @@
 .weixinsxy.com
 .weiyun.com
 .werepository.com.cn
-.wetv.qq.com
 .wetv.vip
 .wetvinfo.com
 .weui.io
@@ -707,3 +706,4 @@
 .yzyxgame.com
 .zcjbgame.com
 .zhuoyuegame.com
+wetv.qq.com
