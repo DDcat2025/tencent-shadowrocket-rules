@@ -2,11 +2,11 @@
 # AUTHOR: DDcat2025
 # REPO: https://github.com/DDcat2025/tencent-shadowrocket-rules
 # SOURCE: https://github.com/v2fly/domain-list-community
-# SOURCE-COMMIT: 01add61fbaf719b55673d969615cd328e80f214c
+# SOURCE-COMMIT: e8d7a10a15bf662c927a40a3aa680bae86379608
 # INCLUDED: cnb, coding, discuz, dnspod, kugou, kuwo, qcloud, sogou, tencent, tencent-dev, tencent-games, tencent-tme, webnovel, ximalaya, yuewen
-# DOMAIN-SUFFIX: 702
+# DOMAIN-SUFFIX: 704
 # DOMAIN: 1
-# TOTAL: 703
+# TOTAL: 705
 17roco.com
 97ting.com
 acctdns.com
@@ -269,7 +269,6 @@ ihappystudio.cn
 ihappystudio.com
 imqq.com
 imweb.io
-in.th
 inte.sogou.com
 inte.sogoucdn.com
 intltencentcos.com
@@ -300,6 +299,7 @@ kugouvoice.com
 kugouyouth.com
 kuwo.cn
 labycore.cn
+levelinfinite.com
 log.tbs.qq.com
 lrts.me
 lu.sogou.com
@@ -347,6 +347,7 @@ na-toronto.tencentcos.com.cn
 nagcloudcs.com
 nextstudios.com
 nextworkshop.net
+nikke-en.com
 onexmail.com
 openapp.run
 openmidas.com
@@ -588,6 +589,7 @@ tencentdigitalassistant.com
 tencentdms.com
 tencenteiam.com
 tencentelasticsearch.com
+tencentgames.com
 tencentid.com
 tencentidentity.com
 tencentmiying.com
